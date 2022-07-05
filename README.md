@@ -10,4 +10,4 @@ https://github.com/projectdiscovery/notify
 
 ## Usage
 
-Just use ./script.h <domain name eg. yahoo.com>
+Just use ./script.h domain-name(yahoo.com)
