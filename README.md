@@ -7,3 +7,7 @@ Just add your discord token with the notify command at the end of the line for w
 the token can be added to the norify configuration file
 Notify is free to use from project discovery, here you can get some more information 
 https://github.com/projectdiscovery/notify
+
+## Usage
+
+Just use ./script.h <domain name eg. yahoo.com>
