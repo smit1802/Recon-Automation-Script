@@ -4,7 +4,7 @@ Just add your discord token with the notify command at the end of the line for w
 
 [script line] | notify
 
-the token can be added to the norify configuration file
+the token can be added to the notify configuration file
 Notify is free to use from project discovery, here you can get some more information 
 https://github.com/projectdiscovery/notify
 
