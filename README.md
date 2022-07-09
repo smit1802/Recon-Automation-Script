@@ -12,7 +12,7 @@ https://github.com/projectdiscovery/notify
 The following are to be installed before running the script
 
 -->Programming Languages:
-1. Go-Lang
+1. Go-Lang\n
 These articles can help you get done with this
 https://unix.stackexchange.com/questions/646844/i-tried-to-install-golang-in-kali-linux-and-its-showing-the-following-error
 
@@ -25,6 +25,8 @@ https://noureldinehab.medium.com/how-to-install-golang-latest-version-on-kali-li
 --> Tools:
 1.Sublist3r
 2.eyewitness
+3.Nmap
+4.httprobe
 
 ## Usage
 
