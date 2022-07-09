@@ -12,8 +12,8 @@ https://github.com/projectdiscovery/notify
 The following are to be installed before running the script
 
 --> Programming Languages:
-1. Go-Lang
-These articles can help you get done with this
+1. Go-Lang<br>
+These articles can help you get done with installing Go-Lang<br>
 https://unix.stackexchange.com/questions/646844/i-tried-to-install-golang-in-kali-linux-and-its-showing-the-following-error
 
 https://rafaelhart.com/2020/03/installing-golang-on-kali-linux/
@@ -23,10 +23,10 @@ https://noureldinehab.medium.com/how-to-install-golang-latest-version-on-kali-li
 2. Python
 
 --> Tools:
-1.Sublist3r
-2.eyewitness
-3.Nmap
-4.httprobe
+1.Sublist3r<br>
+2.eyewitness<br>
+3.Nmap<br>
+4.httprobe<br>
 
 ## Usage
 
