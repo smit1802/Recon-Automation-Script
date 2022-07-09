@@ -11,8 +11,8 @@ https://github.com/projectdiscovery/notify
 ##Requirements
 The following are to be installed before running the script
 
--->Programming Languages:
-1. Go-Lang\n
+--> Programming Languages:
+1. Go-Lang
 These articles can help you get done with this
 https://unix.stackexchange.com/questions/646844/i-tried-to-install-golang-in-kali-linux-and-its-showing-the-following-error
 
