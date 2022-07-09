@@ -24,6 +24,7 @@ https://noureldinehab.medium.com/how-to-install-golang-latest-version-on-kali-li
 2. Python
 
 --> Tools:<br>
+
 1.Sublist3r<br>
 2.eyewitness<br>
 3.Nmap<br>
