@@ -49,4 +49,4 @@ nmap -iL probed.txt -T5 -oA scans/scanned.txt
 
 echo "Running eyewitness..."
 eyewitness -f $pwd/probed.txt -d $1 --all-protocols
-mv /usr/share/eyewitness/$1 eyewitness/$1
+mv /usr/share/eyewitness/$1 eyewitness/$1 | notify
